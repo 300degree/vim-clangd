@@ -1,7 +1,7 @@
 
 root = true
 
-[*.{c,h}]
+[*.{c,h,cpp}]
 charset = utf-8
 end_of_line = lf
 indent_style = tab
@@ -11,6 +11,5 @@ max_line_length = 80
 trim_trailing_whitespace = true
 
 [CMakeLists.txt]
-indent_size = 2
 max_line_length = 80
 
