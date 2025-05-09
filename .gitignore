@@ -1,0 +1,12 @@
+.vscode/
+.cache/
+build/
+
+*.out
+*.exe
+*.swp
+*.lib
+*.dll
+*.so
+*.a
+*.o
